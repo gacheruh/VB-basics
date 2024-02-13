@@ -1,0 +1,17 @@
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\bin\Debug\net8.0-windows\Lab-Work1.exe
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\bin\Debug\net8.0-windows\Lab-Work1.deps.json
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\bin\Debug\net8.0-windows\Lab-Work1.runtimeconfig.json
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\bin\Debug\net8.0-windows\Lab-Work1.dll
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\bin\Debug\net8.0-windows\Lab-Work1.pdb
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab_Work1.Form1.resources
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab_Work1.Form2.resources
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab-Work1.vbproj.GenerateResource.cache
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab-Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab-Work1.AssemblyInfoInputs.cache
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab-Work1.AssemblyInfo.vb
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab-Work1.vbproj.CoreCompileInputs.cache
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab-Work1.dll
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\refint\Lab-Work1.dll
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab-Work1.pdb
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\Lab-Work1.genruntimeconfig.cache
+C:\Users\alvin\Documents\CS2 2.2\comp app\Lab-Work1\Lab-Work1\obj\Debug\net8.0-windows\ref\Lab-Work1.dll
